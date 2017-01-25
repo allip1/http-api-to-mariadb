@@ -1,6 +1,6 @@
 module.exports = {
-  host: '192.168.59.103',
+  host: 'localhost',
   user: 'root',
-  password: 'milestone-root',
-  db : 'Milestone'
+  password: '########',
+  db : 'tesdb'
 };
